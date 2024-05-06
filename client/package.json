@@ -1,0 +1,14 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@altv/types-client": "^16.2.2",
+    "@altv/types-natives": "^16.2.0",
+    "@altv/types-shared": "^16.2.1",
+    "@altv/types-webview": "^16.2.1",
+    "@types/node": "^20.12.8"
+  }
+}

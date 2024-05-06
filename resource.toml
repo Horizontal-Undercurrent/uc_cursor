@@ -1,0 +1,4 @@
+type = "js"
+main = "server/dist/main.js"
+client-main = "client/dist/main.js"
+client-files = ["client/dist/*", "client/webview/dist/*"]

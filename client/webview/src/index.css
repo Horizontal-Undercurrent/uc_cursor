@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: light !important;
+}
+
+body {
+  background: none !important;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

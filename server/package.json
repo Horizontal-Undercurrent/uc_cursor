@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@altv/types-server": "^16.2.1",
+    "@altv/types-shared": "^16.2.1"
+  }
+}

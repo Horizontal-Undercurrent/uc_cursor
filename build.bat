@@ -1,0 +1,1 @@
+cd client && tsc && cd ../server && tsc
